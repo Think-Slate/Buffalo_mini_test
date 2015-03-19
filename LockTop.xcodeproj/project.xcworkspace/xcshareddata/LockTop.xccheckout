@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CABC7510-D7FD-469E-980E-39C9EB31EE1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LockTop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43769F3BAEE3F70AA584E97A365F4F382B61B4B8</key>
+		<string>https://github.com/Think-Slate/LockTop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LockTop.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43769F3BAEE3F70AA584E97A365F4F382B61B4B8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Think-Slate/LockTop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43769F3BAEE3F70AA584E97A365F4F382B61B4B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43769F3BAEE3F70AA584E97A365F4F382B61B4B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lockTop</string>
+		</dict>
+	</array>
+</dict>
+</plist>
